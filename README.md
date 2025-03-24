@@ -39,7 +39,7 @@
 
 <p align="center">
   <a href="https://github.com/Quentin-Hemeryck" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/quentin-hemeryck" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/quentin-hemeryck-64ba65348/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
 </p>
 
 ---
