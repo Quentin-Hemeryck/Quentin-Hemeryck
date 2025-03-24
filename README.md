@@ -5,11 +5,16 @@
 
 <h3 align="center">💻 A Computer Science student in Belgium</h3>
 
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3ZpZXlrdGQ2YmJrczB6dzNzbmZwMTdqaml1MzRqNnBoMHFtamdxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hun4DFmfnDId3lid5b/giphy.gif" alt="Coding GIF" width="400" />
+</p>
+
+
 ---
 
 - 🌍 I'm based in **Belgium**  
 - ✉️ You can contact me at [quentin.hemeryck@std.heh.be](mailto:quentin.hemeryck@std.heh.be)  
-- 🧠 I'm currently learning various technologies including **Windows Server, Linux, PHP, MySQL, Python, JavaScript, HTML, CSS, and jQuery**
+- 🧠 I'm currently learning network infrastructure management, system administration (Windows Server & Linux), web technologies (PHP, MySQL, HTML, CSS, JS, jQuery), and cybersecurity fundamentals as part of my Bachelor's degree in IT with a focus on telecommunications and security.**
 
 ---
 
