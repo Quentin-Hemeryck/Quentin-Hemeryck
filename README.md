@@ -6,7 +6,7 @@
 <h3 align="center">💻 A Computer Science student in Belgium</h3>
 
 <p align="center">
-  <img src="./assets/cyber-warning.gif" alt="Cyber Warning GIF" width="800" />
+  <img src="./assets/cyber-warning.gif" alt="Cyber Warning GIF" width="600" />
 </p>
 
 ---
