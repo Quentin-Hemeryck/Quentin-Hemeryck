@@ -6,9 +6,8 @@
 <h3 align="center">💻 A Computer Science student in Belgium</h3>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3ZpZXlrdGQ2YmJrczB6dzNzbmZwMTdqaml1MzRqNnBoMHFtamdxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hun4DFmfnDId3lid5b/giphy.gif" alt="Coding GIF" width="600"/>
+  <img src="./assets/cyber-warning.gif" alt="Cyber Warning GIF" width="800" />
 </p>
-
 
 ---
 
