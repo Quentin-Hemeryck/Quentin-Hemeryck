@@ -1,4 +1,4 @@
-[<h1 align="center">
+<h1 align="center">
   Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" />
   I'm Flowzitto
 </h1>
@@ -6,7 +6,7 @@
 <h3 align="center">💻 A Computer Science student in Belgium</h3>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3ZpZXlrdGQ2YmJrczB6dzNzbmZwMTdqaml1MzRqNnBoMHFtamdxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hun4DFmfnDId3lid5b/giphy.gif" alt="Coding GIF" width="800" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3ZpZXlrdGQ2YmJrczB6dzNzbmZwMTdqaml1MzRqNnBoMHFtamdxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hun4DFmfnDId3lid5b/giphy.gif" alt="Coding GIF" width="600"/>
 </p>
 
 
