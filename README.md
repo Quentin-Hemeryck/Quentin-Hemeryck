@@ -3,6 +3,10 @@
   I'm Flowzitto
 </h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Quentin-Hemeryck&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 <h3 align="center">💻 A Computer Science student in Belgium</h3>
 
 <p align="center">
@@ -13,7 +17,7 @@
 
 - 🌍 I'm based in **Belgium**  
 - ✉️ You can contact me at [quentin.hemeryck@std.heh.be](mailto:quentin.hemeryck@std.heh.be)  
-- 🧠 I'm currently learning network infrastructure management, system administration (Windows Server & Linux), web technologies (PHP, MySQL, HTML, CSS, JS, jQuery), and cybersecurity fundamentals as part of my Bachelor's degree in IT with a focus on telecommunications and security.**
+- 🧠 I'm currently learning network infrastructure management, system administration (Windows Server & Linux), web technologies (PHP, MySQL, HTML, CSS, JS, jQuery), and cybersecurity fundamentals as part of my Bachelor's degree in IT with a focus on telecommunications and security.
 
 ---
 
@@ -57,4 +61,3 @@
 <p align="center">
   <a href="http://www.github.com/Quentin-Hemeryck"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quentin-Hemeryck&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
 </p>
-](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3ZpZXlrdGQ2YmJrczB6dzNzbmZwMTdqaml1MzRqNnBoMHFtamdxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hun4DFmfnDId3lid5b/giphy.gif)
